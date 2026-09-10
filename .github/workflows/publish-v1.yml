@@ -21,7 +21,7 @@ jobs:
       - name: Reconstruct source
         shell: bash
         run: |
-          cat release-src/v1.0/source.gz.b64.part* | tr -d '\r\n' | base64 -d | gzip -d > ps3_youtube_dlna.py
+          cat release-src/v1.0-final/source.gz.b64.part* | tr -d '\r\n' | base64 -d | gzip -d > ps3_youtube_dlna.py
           echo "96a5b66d09a48160c13b266373de82000485ba89ca4f70a09258958ec6127f9c  ps3_youtube_dlna.py" | sha256sum -c -
           python3 -m py_compile ps3_youtube_dlna.py
 
