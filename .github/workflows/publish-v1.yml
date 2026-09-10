@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/publish-v1.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
