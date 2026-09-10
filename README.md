@@ -14,9 +14,9 @@ heres what you will need :
 also yes its vibecoded but i really don't have a lot of time in my day so yes please forgive me if you consider that a sin
 
 if you get errors and stuff just post it in the issues tab on the github repo with possibly :
-ps3 error code
-console error code
-activity tab output
+1) ps3 error code
+2) console error code
+3) activity tab output
 
 if you need to create a youtube data api v3 key then look online idk . also there might be buffers in the stream
 
