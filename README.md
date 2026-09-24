@@ -21,3 +21,7 @@ if you get errors and stuff just post it in the issues tab on the github repo wi
 if you need to create a youtube data api v3 key then look online idk . also there might be buffers in the stream
 
 if you got ideas for features then idk where to post them so i guess do a issues tab starting with "Request :"
+
+next update will add :
+1) a native ps3-hen client on the ps3 without needing a client
+2) removing the search and results from the python app not the ps3 server for it to take less space
